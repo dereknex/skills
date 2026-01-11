@@ -1,0 +1,461 @@
+{
+  "source": "https://www.uidesign.tips/ui-tips",
+  "tips": [
+    {
+      "title": "Social Login",
+      "summary": "Prioritize the sign-in option that best matches the user's context and show it in the primary slot.",
+      "category": "auth",
+      "detail_source": "https://www.uidesign.tips/ui-tips/social-login",
+      "details": [
+        "Social login boosts conversion since users can easily join your platform.",
+        "Then, it's a good practice to put your social login on top of the page and place the email password authentication below.",
+        "Beware that privacy-oriented people prefer not to use social login then it's always good to have another option for them."
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/visually-seperate-elements-1.jpg"
+    },
+    {
+      "title": "Design Better Menus",
+      "summary": "Avoid traditional menu bars; place menu options in locations that make sense for the layout.",
+      "category": "navigation",
+      "detail_source": "https://www.uidesign.tips/ui-tips/better-menus",
+      "details": [
+        "Menus have readability issues very often",
+        "A quick hack to make them look and function better is to add an icon next to every action. In that way, you help users visually identify actions without having to read the whole copy.",
+        "Also, it's a good practice to highlight the active tab, if it's applicable to the menu's use case."
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/social-login.jpg"
+    },
+    {
+      "title": "The Gutenberg Principle",
+      "summary": "Keep key information in the upper-left and bottom-right to reinforce emphasis.",
+      "category": "visual-hierarchy",
+      "detail_source": "https://www.uidesign.tips/ui-tips/gutenburg-principle",
+      "details": [
+        "The Gutenberg Principle (aka Z-Pattern Layout) states that users' eyes travel according to a Z-shaped path from the top-left area to the bottom-right area.",
+        "It's a good practice to place your CTA at the end of this flow to lead users to take action.",
+        "Get notified about new tips & articles before anyone else!"
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/better-menus.jpg"
+    },
+    {
+      "title": "Delete Modal",
+      "summary": "Use a modal only when the action is irreversible.",
+      "category": "confirmation",
+      "detail_source": "https://www.uidesign.tips/ui-tips/quick-ui-fixes",
+      "details": [
+        "Pay extra attention to your buttons' copies.",
+        "Avoid generic out-of-context copies, like 'Yes' or 'No'.",
+        "Instead, use a sentence to communicate clearly the button's actions."
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/gutenburg principle.jpg"
+    },
+    {
+      "title": "Align Uneven Elements",
+      "summary": "If inner content is left-aligned, the outer elements should be left-aligned too.",
+      "category": "layout",
+      "detail_source": "https://www.uidesign.tips/ui-tips/align-unever-items",
+      "details": [
+        "In many cases, you have to align uneven in size elements.",
+        "Even if you set the spacing between the elements to be the same, the visual result seems off.",
+        "The best way to fix this visual issue is by setting the same width for all the elements."
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/quick-ui-fixes.jpg"
+    },
+    {
+      "title": "De-emphasize Dangerous Actions",
+      "summary": "Style cancel or destructive alternatives in muted tones to prevent accidental clicks.",
+      "category": "buttons",
+      "detail_source": "https://www.uidesign.tips/ui-tips/de-emphasize-dangerous-actions",
+      "details": [
+        "Always try to de-emphasize dangerous actions like deletion.",
+        "You have to prioritize the default action instead of the dangerous/irreversible one.",
+        "Also, use more than one trait to make the element look like a secondary action (color, size, type, placement, etc)."
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/align-unever-items.jpg"
+    },
+    {
+      "title": "Always Have A CTA",
+      "summary": "Every page should include a clear call-to-action so users know what to do next.",
+      "category": "cta",
+      "detail_source": "https://www.uidesign.tips/ui-tips/hero-section-cta-1",
+      "details": [
+        "Always have a CTA button on your website's above the fold section",
+        "Many of your visitors might never scroll down your landing page",
+        "So you need to offer them an option to convert immediately."
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/de-emphasize-dangerous-actions.jpg"
+    },
+    {
+      "title": "The Perfect Header",
+      "summary": "Group the heading and subtext as a single unit to improve readability.",
+      "category": "typography",
+      "detail_source": "https://www.uidesign.tips/ui-tips/how-to-design-the-perfect-header",
+      "details": [
+        "A good header needs to put attention on the title and then lead the reader to the description, which must be readable.",
+        "A few quick hacks to achieve this hierarchy include:",
+        "Get notified about new tips & articles before anyone else!"
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/hero-section-cta-1.jpg"
+    },
+    {
+      "title": "Validate Deletion",
+      "summary": "For irreversible actions, require users to type a specific word to confirm.",
+      "category": "confirmation",
+      "detail_source": "https://www.uidesign.tips/ui-tips/how-to-validate-deletion",
+      "details": [
+        "Never allow the user to delete something without validation.",
+        "People misclick all the time, and losing information forever hurts and creates a bad memory related to your product!",
+        "Make sure your UI supports (inline or popup) deletion validation."
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/How To Design The Perfect Header.jpg"
+    },
+    {
+      "title": "Empty State With Templates",
+      "summary": "Offer templates so users understand the expected content structure.",
+      "category": "empty-state",
+      "detail_source": "https://www.uidesign.tips/ui-tips/empty-state",
+      "details": [
+        "Upgrade your UI empty states with templates!",
+        "Instead of redirecting people to create content from scratch, make their lives easier.",
+        "Use pre-made templates to help them experience your product's value quicker and boost your product adoption at the same time."
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/how-to-validate-deletion.jpg"
+    },
+    {
+      "title": "Inform Users Beforehand",
+      "summary": "Warn users about impactful changes using clear banners or popups.",
+      "category": "notifications",
+      "detail_source": "https://www.uidesign.tips/ui-tips/don-t-let-user-guess",
+      "details": [
+        "Never let users guess what's the next step on your user journey.",
+        "Have in mind that conversions might be low because people are afraid to press a button.",
+        "A strong message (like \"Reserve\") adds stress and makes people wonder whether they'll be charged or not."
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/empty-state.jpeg"
+    },
+    {
+      "title": "How to Align Uneven Items",
+      "summary": "Match element alignment to the alignment of their inner content.",
+      "category": "layout",
+      "notes": "Duplicate concept of Align Uneven Elements."
+    },
+    {
+      "title": "Fallback for Transparent Avatars 1",
+      "summary": "Add a background layer when an avatar image has transparency.",
+      "category": "visual-design",
+      "detail_source": "https://www.uidesign.tips/ui-tips/avatar-background-1",
+      "details": [
+        "Many platforms (like Twitter) allow PNG avatars that can cause UI inconsistencies",
+        "To avoid this problem add a subtle border and background color to the avatar that is the same as the app's background.",
+        "Get notified about new tips & articles before anyone else!"
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/align-unever-items.jpg"
+    },
+    {
+      "title": "Fallback for Transparent Avatars 2",
+      "summary": "Use a background color to avoid transparent avatars blending into the UI.",
+      "category": "visual-design",
+      "notes": "Duplicate concept of Fallback for Transparent Avatars 1.",
+      "detail_source": "https://www.uidesign.tips/ui-tips/avatar-background-2",
+      "details": [
+        "Another visual hack to ensure consistency for transparent avatars is by adding a subtle border around them, the same color as the background.",
+        "The border looks like it's part of the background and distinguishes it from the cover section.",
+        "Get notified about new tips & articles before anyone else!"
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/avatar-background-1.jpg"
+    },
+    {
+      "title": "Consistent Border-Radius",
+      "summary": "Use a consistent radius scale; a common heuristic is outer radius about 2x inner radius.",
+      "category": "visual-design",
+      "detail_source": "https://www.uidesign.tips/ui-tips/border-radius-consistency",
+      "details": [
+        "Round images usually look weird when they're included in a card with a small border-radius.",
+        "Use the simple rule of thumb: 𝙊𝙪𝙩𝙚𝙧 𝙍𝙖𝙙𝙞𝙪𝙨 = 2 * 𝙄𝙣𝙣𝙚𝙧 𝙍𝙖𝙙𝙞𝙪𝙨",
+        "Get notified about new tips & articles before anyone else!"
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/avatar-background-2.jpg"
+    },
+    {
+      "title": "How to Apply the Brand Color",
+      "summary": "Apply brand color to key actions like primary CTAs and important icons.",
+      "category": "branding",
+      "detail_source": "https://www.uidesign.tips/ui-tips/brand-colors",
+      "details": [
+        "Colors are a core element for any user interface.",
+        "One of the most common mistakes in UI design is the over usage of the brand color.",
+        "Avoid it by highlighting only the most important elements of your interface with your primary color."
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/border-radius-consistency.jpg"
+    },
+    {
+      "title": "Distinguish Selected Items",
+      "summary": "Highlight selected items so they clearly stand out from unselected ones.",
+      "category": "interaction",
+      "detail_source": "https://www.uidesign.tips/ui-tips/distinguish-selected-items",
+      "details": [
+        "Always make sure that your selected items are easily identified at a glance.",
+        "Changing the background color is a simple and accessible way to achieve it!",
+        "It makes the user experience better since the user can easily figure out which elements are already selected."
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/brand-colors.jpg"
+    },
+    {
+      "title": "Use Better Link Button",
+      "summary": "Make the primary action visually dominant among links or buttons.",
+      "category": "buttons",
+      "detail_source": "https://www.uidesign.tips/ui-tips/engaging-links",
+      "details": [
+        "Links are important and you need to treat their appearance nicely.",
+        "Many times a traditional button works better than a single link.",
+        "Especially if the link is not on a header, footer, or the body of an article."
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/distinguish-selected-items.jpg"
+    },
+    {
+      "title": "Use Consistent Buttons",
+      "summary": "Keep primary buttons consistent in shape and styling across the UI.",
+      "category": "buttons",
+      "detail_source": "https://www.uidesign.tips/ui-tips/hero-section-consistency",
+      "details": [
+        "Your design, and mostly your buttons, need to be consistent thought the user interface.",
+        "Keep this in mind especially for the header (hero) section.",
+        "Don't confuse your visitors with different buttons in styles and copy."
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/engaging-links.jpg"
+    },
+    {
+      "title": "Direct User Attention with Media",
+      "summary": "Place a supporting video or visual next to the CTA to draw focus.",
+      "category": "cta",
+      "detail_source": "https://www.uidesign.tips/ui-tips/hero-section-cta-2",
+      "details": [
+        "Leverage visuals to direct user's attention",
+        "As humans, we tend to follow another person's line of sight.",
+        "Take advantage of this effect, by prompting people to focus on individual elements (A) or scroll (B)."
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/hero-section-consistency.jpg"
+    },
+    {
+      "title": "Prompt User to Scroll",
+      "summary": "If key content starts below the fold, show a down arrow to encourage scrolling.",
+      "category": "navigation",
+      "detail_source": "https://www.uidesign.tips/ui-tips/hero-section-prompt-scroll",
+      "details": [
+        "Your website needs to prompt users to scroll to communicate your product's value better.",
+        "Especially when the header content is not enough to describe your product's value.",
+        "A simple hack to prompt users to scroll is by showing them a glimpse of the next section."
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/hero-section-cta-2.jpg"
+    },
+    {
+      "title": "Highlight The Best Offer",
+      "summary": "When multiple plans exist, visually emphasize the recommended option.",
+      "category": "pricing",
+      "detail_source": "https://www.uidesign.tips/ui-tips/highlight-popular-plan",
+      "details": [
+        "Always highlight your best pricing plan and make it pop out.",
+        "In that way, you help users identify the most used plan and you promote your top offer. It's a win-win situation.",
+        "To highlight the plan, use more than one design ways, eg. color, size, elevation (aka shadow)!"
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/hero-section-prompt-scroll.jpg"
+    },
+    {
+      "title": "Avoid Fullwidth Paragraphs",
+      "summary": "Limit paragraph width to improve readability.",
+      "category": "typography",
+      "detail_source": "https://www.uidesign.tips/ui-tips/line-width",
+      "details": [
+        "Long lines can bore users and create readability problems.",
+        "Fix it by limiting the line's width between 500px and 700px.",
+        "Instead of pixels, you can restrict the character number per line as well."
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/highlight-popular-plan.jpg"
+    },
+    {
+      "title": "Make Cards Look Clickable",
+      "summary": "Add stronger shadows, arrows, or hover states to signal clickability.",
+      "category": "cards",
+      "detail_source": "https://www.uidesign.tips/ui-tips/make-cards-look-clickable-vol-2",
+      "details": [
+        "In many cases, cards fail to indicate that they're clickable.",
+        "Designers omit CTA buttons and only count on the user's experience or/and, hover effects.",
+        "In design, it's always a good practice to never leave things on user imagination."
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/line-width.jpg"
+    },
+    {
+      "title": "Make Inputs Self-Explanatory",
+      "summary": "Provide short examples under inputs to clarify expected values.",
+      "category": "forms",
+      "detail_source": "https://www.uidesign.tips/ui-tips/make-inputs-self-explanatory",
+      "details": [
+        "The two \"secret\" weapons to enhance your input fields are the placeholder text & its type.⠀ ⠀",
+        "Get notified about new tips & articles before anyone else!",
+        "\""
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/make-cards-look-clickable-vol-2.jpg"
+    },
+    {
+      "title": "Pick The Correct Element",
+      "summary": "Use high-contrast, bright colors for CTAs to separate them from surrounding UI.",
+      "category": "cta",
+      "detail_source": "https://www.uidesign.tips/ui-tips/number-input-1",
+      "details": [
+        "Make it as simple as possible for users to enter their information.⠀ ⠀ Choosing the right UI element plays a huge part in upgrading UX.⠀ ⠀ For example, use a number picker for integer numeric values instead of a generic text field.",
+        "In eCommerce carts, most users will buy 1, or 2 items maximum. The -/+ buttons make their input process quicker.",
+        "Get notified about new tips & articles before anyone else!"
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/make-inputs-self-explanatory.jpg"
+    },
+    {
+      "title": "How To Enhance Hierarchy",
+      "summary": "Use size, weight, and color to emphasize key content sections.",
+      "category": "visual-hierarchy",
+      "detail_source": "https://www.uidesign.tips/ui-tips/quick-ui-fixes-1",
+      "details": [
+        "Visual hierarchy is important in design because it boosts the user experience and leads the user attention",
+        "Your No.1 priority is to make your primary action (aka CTA) prominent.",
+        "In this case, the button that initiates the booking process is the main CTA."
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/number-input-1.jpg"
+    },
+    {
+      "title": "Make Tooltips Responsive",
+      "summary": "On mobile, allow tap/press to reveal tooltips instead of hover.",
+      "category": "tooltips",
+      "detail_source": "https://www.uidesign.tips/ui-tips/responsive-tooltips",
+      "details": [
+        "The classic tooltip is activated once the user hovers over the element...",
+        "On desktop, this works perfectly!",
+        "However mobile devices don't support the hover effect"
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/quick-ui-fixes-1.jpg"
+    },
+    {
+      "title": "Choose Chart Types Carefully",
+      "summary": "Select chart types that match the data and improve clarity.",
+      "category": "charts",
+      "detail_source": "https://www.uidesign.tips/ui-tips/right-chart-type",
+      "details": [
+        "Line charts might look trendier but they don't apply to every case.",
+        "When the x-axis has limited options, a bar chart is the most appropriate graph type.",
+        "Plus, the line chart might introduce false intermediate values."
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/responsive tooltips.jpg"
+    },
+    {
+      "title": "Padding On Rounded Cards",
+      "summary": "Increase internal padding so content stays away from rounded edges.",
+      "category": "cards",
+      "detail_source": "https://www.uidesign.tips/ui-tips/round-card-padding",
+      "details": [
+        "The left cards use the same padding around the card. Yet the visual result seems off.",
+        "A quick fix is to make the padding larger when the element on the edge is not round - like icons and text.",
+        "The rule of thumb is to use double the padding on the edge which is not round."
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/right-chart-type.jpg"
+    },
+    {
+      "title": "Visually Distinguish Elements",
+      "summary": "Use dividers, subtle borders, or background colors to separate elements.",
+      "category": "layout"
+    },
+    {
+      "title": "Support Icons With Labels",
+      "summary": "Add labels when icon meaning is not obvious.",
+      "category": "icons",
+      "detail_source": "https://www.uidesign.tips/ui-tips/support-icons-with-text",
+      "details": [
+        "Icons can often confuse users or get misinterpreted by different people due to their experience level or even due to their culture.",
+        "Fix this accessibility issue is by adding a subtle text label near the icon which will describe its usage.",
+        "Keep this information in mind especially for mobile interfaces which don't support hover effects."
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/social-login.jpg"
+    },
+    {
+      "title": "Use Labels Cleverly 2",
+      "summary": "Use labels to clarify choices when users must select from options.",
+      "category": "forms",
+      "detail_source": "https://www.uidesign.tips/ui-tips/use-labels-cleverly-2",
+      "details": [
+        "A smart use case for labels is on color pickers with predefined values.",
+        "Depending on the app's context you can even omit labels.",
+        "Consider keeping them for color-blind people who struggle to identify colors though."
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/support-icons-with-text.jpg"
+    },
+    {
+      "title": "Use Labels Cleverly 1",
+      "summary": "Use labels to clarify specific information you need from the user.",
+      "category": "forms",
+      "detail_source": "https://www.uidesign.tips/ui-tips/use-labels-cleverly",
+      "details": [
+        "Complement your link copy with a visual representation of the selected value. In this example, the labels show you how capitalization will look.",
+        "It's not always possible to do this hack, so go all into it when the opportunity presents itself.",
+        "Get notified about new tips & articles before anyone else!"
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/use-labels-cleverly-2.jpg"
+    },
+    {
+      "title": "Display Useful Shortcuts",
+      "summary": "Show keyboard shortcuts for power users on desktop platforms.",
+      "category": "productivity",
+      "detail_source": "https://www.uidesign.tips/ui-tips/users-hate-surprises-1",
+      "details": [
+        "Keyboard shortcuts boost productivity and save time for power users.",
+        "Yet it's sometimes difficult to remember them.",
+        "Take advantage of Fitts's law* and place your shortcut keys next to the action button."
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/use-labels-cleverly.jpg"
+    },
+    {
+      "title": "User Hate Surprises",
+      "summary": "Notify users before changes that could affect them.",
+      "category": "notifications",
+      "detail_source": "https://www.uidesign.tips/ui-tips/users-hate-surprises",
+      "details": [
+        "With a simple UX copy adjustment, you can avoid misunderstandings and upgrade your product experience.⠀ ⠀ This is a real-life example from the voice messaging app Yac .⠀ ⠀ I literally spend 30' wondering if the app will auto-post my voice message in the channel or allow me to hear and edit it first.⠀ ⠀ In the end, I recorded it on my phone and hit the \"Record\" button with the recorded message ⠀ A tiny detail can introduce so much friction!⠀",
+        "Get notified about new tips & articles before anyone else!",
+        "\""
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/users-hate-surprises-1.jpg"
+    },
+    {
+      "title": "Prioritize UX",
+      "summary": "User needs come before business goals in product decisions.",
+      "category": "product",
+      "detail_source": "https://www.uidesign.tips/ui-tips/ux-vs-conversions",
+      "details": [
+        "Instagram recently launched Shop.",
+        "The decision to place it at the position of the Activity tab is not random...",
+        "This might lead to better conversions but make the user experience x10 worse."
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/users-hate-surprises.jpg"
+    },
+    {
+      "title": "Hack Visual Hierarchy",
+      "summary": "Vary font weights and sizes to create emphasis.",
+      "category": "visual-hierarchy",
+      "detail_source": "https://www.uidesign.tips/ui-tips/visual-hierarchy",
+      "details": [
+        "Hack visual hierarchy with these simple hacks:",
+        "• Reduce the opacity of secondary info • Use bold font-weight to emphasize • Scale your title's size by a fixed ratio (eg x1.25) • Arrange elements to the left side (for LTR users) • Group together relevant elements",
+        "Get notified about new tips & articles before anyone else!"
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/ux-vs-conversions.jpg"
+    },
+    {
+      "title": "Visually Separate Elements",
+      "summary": "Separate sections with backgrounds, borders, or dividers.",
+      "category": "layout",
+      "detail_source": "https://www.uidesign.tips/ui-tips/visually-seperate-elements-1",
+      "details": [
+        "Prefer to visually separate menu sections with whitespace. Whitespace makes the UI look cleaner and request less cognitive effort from the user.",
+        "In the example below:",
+        "A is too complex and distracts the user, but both B & C can be used on real-life user interfaces."
+      ],
+      "image": "https://storage.googleapis.com/brandflow-bucket/ui-design-tips/fullsize/visual-hierarchy.jpg"
+    }
+  ]
+}
