@@ -1,8 +1,6 @@
 ---
 name: ui-styling
-description: Create beautiful, accessible user interfaces with shadcn/ui components (built on Radix UI + Tailwind), Tailwind CSS utility-first styling, and canvas-based visual designs. Use when building user interfaces, implementing design systems, creating responsive layouts, adding accessible components (dialogs, dropdowns, forms, tables), customizing themes and colors, implementing dark mode, generating visual designs and posters, or establishing consistent styling patterns across applications.
-license: MIT
-version: 1.0.0
+description: Use when building or styling React-based UIs with shadcn/ui and Tailwind CSS, including responsive layouts, accessible components, and theme customization.
 ---
 
 # UI Styling Skill
@@ -13,6 +11,12 @@ Comprehensive skill for creating beautiful, accessible user interfaces combining
 
 - shadcn/ui: https://ui.shadcn.com/llms.txt
 - Tailwind CSS: https://tailwindcss.com/docs
+
+## Scope & Priority
+
+- This skill is for **UI implementation and styling**, not standalone visual art.
+- If the user requests posters, illustrations, or PNG/PDF artwork, use `canvas-design` instead.
+- If `ui-style-compliance` applies, its constraints are **hard requirements** and take priority.
 
 ## When to Use This Skill
 
@@ -43,12 +47,6 @@ Use when:
 - Consistent design tokens (colors, spacing, typography)
 - Automatic dead code elimination
 
-### Visual Design Layer: Canvas
-- Museum-quality visual compositions
-- Philosophy-driven design approach
-- Sophisticated visual communication
-- Minimal text, maximum visual impact
-- Systematic patterns and refined aesthetics
 
 ## Quick Start
 
@@ -190,14 +188,6 @@ Covers:
 - Layer organization (@layer base, components, utilities)
 - Apply directive for component extraction
 
-## Visual Design System
-
-**Canvas-based design philosophy, visual communication principles, and sophisticated compositions.**
-
-See: `references/canvas-design-system.md`
-
-Covers:
-- Design philosophy approach
 - Visual communication over text
 - Systematic patterns and composition
 - Color, form, and spatial design

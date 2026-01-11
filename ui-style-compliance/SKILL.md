@@ -9,6 +9,8 @@ description: Use when designing or reviewing UI in React-based frameworks (Next.
 
 Apply a strict UI compliance checklist to React-based UI work so outputs match the UI Skills constraints without adding unrequested styling or interaction behavior.
 
+**Priority:** This skill is a compliance gate. When it conflicts with other UI skills (e.g., animation or styling), these rules take precedence.
+
 ## Scope
 
 Use this skill for UI design, UI review, or implementation review in Next.js, Vite, Remix, or Astro projects. It is a compliance gate, not a creativity prompt.

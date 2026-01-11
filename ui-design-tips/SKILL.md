@@ -1,6 +1,6 @@
 ---
 name: ui-design-tips
-description: Use when a user asks for UI design tips, quick critique, or practical guidance on layout, hierarchy, CTAs, forms, navigation, cards, tooltips, charts, or confirmation patterns and you need curated heuristics to respond.
+description: Use when a user asks for UI design tips or quick critique about layout, hierarchy, CTAs, forms, navigation, cards, tooltips, charts, or confirmation patterns.
 ---
 
 # UI Design Tips
@@ -8,6 +8,8 @@ description: Use when a user asks for UI design tips, quick critique, or practic
 ## Overview
 
 Provide concise, actionable UI advice using the curated tips dataset from uidesign.tips. Use the reference JSON to select and apply tips that match the user's context, then translate them into concrete design recommendations.
+
+**Scope:** This skill focuses on UI layout and visual interaction patterns. For UX strategy, conversion psychology, onboarding flow, or pricing behavior, use `ux-design-tips`.
 
 ## Quick Start
 

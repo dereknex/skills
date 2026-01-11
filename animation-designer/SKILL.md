@@ -1,13 +1,17 @@
 ---
 name: animation-designer
-description: Expert in web animations, transitions, and motion design using Framer Motion and CSS
-version: 1.0.0
-tags: [animation, framer-motion, css-animations, transitions, motion-design]
+description: Use when the user explicitly requests animations, transitions, or motion design for a web UI.
 ---
 
 # Animation Designer Skill
 
 I help you create smooth, professional animations for web applications using Framer Motion and CSS.
+
+## Animation Gate (Required)
+
+- **Do not add animation unless the user explicitly asks for it.**
+- If the project requires `motion/react`, use it instead of `framer-motion`.
+- If `ui-style-compliance` applies, follow its rules (transform/opacity only, <=200ms feedback, respect reduced motion).
 
 ## What I Do
 

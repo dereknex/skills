@@ -1,12 +1,14 @@
 ---
 name: ux-design-tips
-description: Use when asked to provide UX tips, heuristics, or actionable guidance for landing pages, onboarding, pricing, CTAs, social proof, personalization, login, permissions, or brand memorability, and you need goal-based recommendations derived from uidesign.tips/ux-tips.
+description: Use when asked for UX strategy or behavior guidance on landing pages, onboarding, pricing, CTAs, social proof, personalization, login, permissions, or brand memorability.
 ---
 
 # UX Design Tips
 
 ## Overview
 Provide goal-based UX tips derived from uidesign.tips/ux-tips. Prioritize actionable guidance, map to a single primary goal, and keep each tip unique.
+
+**Scope:** This skill targets UX strategy and behavior. For visual layout or component-level UI critique, use `ui-design-tips`.
 
 ## Workflow
 1. Read references/ux-tips.txt.

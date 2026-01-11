@@ -1,6 +1,6 @@
 ---
 name: ui-designer
-description: Extract design systems from reference UI images and generate implementation-ready UI design prompts. Use when users provide UI screenshots/mockups and want to create consistent designs, generate design systems, or build MVP UIs matching reference aesthetics.
+description: Use when the user provides UI screenshots/mockups and wants a design system extracted or an implementation prompt that matches those references.
 ---
 
 # UI Designer
@@ -8,6 +8,11 @@ description: Extract design systems from reference UI images and generate implem
 ## Overview
 
 This skill enables systematic extraction of design systems from reference UI images through a multi-step workflow: analyze visual patterns → generate design system documentation → create PRD → produce implementation-ready UI prompts.
+
+## Scope
+
+- **Requires reference images.** If no UI references are provided, use `ui-styling` instead.
+- If subagents are not available, perform the analysis and drafting steps directly.
 
 ## When to Use
 
@@ -39,6 +44,8 @@ Request from user:
 - Include dark mode variants if present
 
 **Attach reference images** to the subagent context.
+
+If subagents are unavailable, do the extraction manually following the same template.
 
 **Output**: Complete design system markdown following the template format
 
