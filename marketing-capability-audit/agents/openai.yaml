@@ -1,0 +1,4 @@
+interface:
+  display_name: "Marketing Capability Audit"
+  short_description: "Assess startup marketing readiness and channel checklist"
+  default_prompt: "Assess my startup marketing readiness using the checklist and recommend next steps."
