@@ -1,16 +1,17 @@
 ---
 name: ui-styling
-description: Use when building or styling React-based UIs with shadcn/ui and Tailwind CSS, including responsive layouts, accessible components, and theme customization.
+description: Use when building or styling React-based UIs with shadcn/ui and Tailwind CSS (v3/v4), including responsive layouts, accessible components, theme customization, and design systems. Covers CSS-first v4 configuration, design tokens, and component patterns.
 ---
 
 # UI Styling Skill
 
-Comprehensive skill for creating beautiful, accessible user interfaces combining shadcn/ui components, Tailwind CSS utility styling, and canvas-based visual design systems.
+Comprehensive skill for creating beautiful, accessible user interfaces combining shadcn/ui components, Tailwind CSS utility styling (v3 and v4), design tokens, and canvas-based visual design systems.
 
 ## Reference
 
 - shadcn/ui: https://ui.shadcn.com/llms.txt
 - Tailwind CSS: https://tailwindcss.com/docs
+- Tailwind v4 migration: see `references/tailwind-v4-patterns.md`
 
 ## Scope & Priority
 
@@ -301,6 +302,31 @@ export function LoginForm() {
 </div>
 ```
 
+## Tailwind v4 Quick Reference
+
+For detailed v4 patterns (CSS-first @theme, OKLCH colors, @custom-variant dark mode, @utility, @starting-style animations, React 19 ref patterns), see `references/tailwind-v4-patterns.md`.
+
+| v3 Pattern | v4 Pattern |
+|---|---|
+| `tailwind.config.ts` | `@theme` in CSS |
+| `@tailwind base/components/utilities` | `@import "tailwindcss"` |
+| `darkMode: "class"` | `@custom-variant dark (&:where(.dark, .dark *))` |
+| `theme.extend.colors` | `@theme { --color-*: value }` |
+| `require("tailwindcss-animate")` | CSS `@keyframes` in `@theme` |
+
+### v3 → v4 Migration Checklist
+
+- [ ] Replace `tailwind.config.ts` with CSS `@theme` block
+- [ ] Change `@tailwind base/components/utilities` to `@import "tailwindcss"`
+- [ ] Move color definitions to `@theme { --color-*: value }`
+- [ ] Replace `darkMode: "class"` with `@custom-variant dark`
+- [ ] Move `@keyframes` inside `@theme` blocks
+- [ ] Replace `require("tailwindcss-animate")` with native CSS animations
+- [ ] Update `h-10 w-10` to `size-10`
+- [ ] Remove `forwardRef` (React 19 passes ref as prop)
+- [ ] Consider OKLCH colors for better perception
+- [ ] Replace custom plugins with `@utility` directives
+
 ## Resources
 
 - shadcn/ui Docs: https://ui.shadcn.com
@@ -309,3 +335,4 @@ export function LoginForm() {
 - Tailwind UI: https://tailwindui.com
 - Headless UI: https://headlessui.com
 - v0 (AI UI Generator): https://v0.dev
+- CVA: https://cva.style/docs
